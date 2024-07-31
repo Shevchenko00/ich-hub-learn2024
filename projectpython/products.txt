@@ -1,0 +1,5 @@
+Apple, 1.50, 10
+Banana, 0.75, 15
+Chery, 1.99, 25
+Orange, 2, 5
+Watermelon, 0.30, 40

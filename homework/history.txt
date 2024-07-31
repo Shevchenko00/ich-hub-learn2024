@@ -1,0 +1,111 @@
+    1  top
+    2  htop
+    3  sudo dnf install htop
+    4  sudo dnf install gnome-tweaks
+    5  top
+    6  clear
+    7  udo dnf
+    8  sudo dnf
+    9  dnf
+   10  clear
+   11  dnf install /home/akula/opera
+   12  sudo dnf install /home/akula/opera
+   13  top
+   14  clear
+   15  color
+   16  clear
+   17  cleear
+   18  clear
+   19  topo
+   20  top
+   21  clear
+   22  rpm -i /home/akula/Загрузки/opera-stable_112.0.5197.25_amd64.deb
+   23  yum install /home/akula/Загрузки/opera-stable_112.0.5197.25_amd64.deb
+   24  sudo yum install /home/akula/Загрузки/opera-stable_112.0.5197.25_amd64.deb
+   25  deb
+   26  sudo dnf repository-packages 
+   27  clear
+   28  rmp /home/akula/Загрузки/
+   29  sudo dnf install docker-desktop-x86_64.rpm
+   30  sudo rpm install docker-desktop-x86_64.rpm
+   31  sudo dnf install ./docker-desktop-<arch>.rpm
+   32  $> sudo rpm -Uvh mysql-community-release-el7-7.noarch.rpm
+   33  sudo rpm -Uvh mysql-community-release-el7-7.noarch.rpm
+   34  sudo dpkg -i mysql-apt-config_0.5.3-1_all.deb
+   35  sudo apt-get install mysql-workbench-community
+   36  top
+   37  python
+   38  clear
+   39  top
+   40   sudo dnf -y install dnf-plugins-core
+   41   sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
+   42  sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+   43   sudo systemctl start docker
+   44   sudo docker run hello-world
+   45  git
+   46  clear
+   47  ssh
+   48  top
+   49  ssh-keygen -t ed25519 shevchenko.sasha2005@gmail.com
+   50  ssh-keygen shevchenko.sasha2005@gmail.com
+   51  ssh-keygen sha256 shevchenko.sasha2005@gmail.com
+   52  clear
+   53  top
+   54  ssh-keygen shevchenko.sasha2005@gmail.com
+   55  ssh-keygen 
+   56  /home/.ssh
+   57  cat /home/.ssh
+   58  clear
+   59  /home/.ssh/id_ed25519.pub
+   60  cat /home/akula/.ssh/id_ed25519.pub 
+   61  ssh-keygen
+   62  ssh-keygen "shevchenko.sasha2005@gmail.com"
+   63  cat /home/akula/.ssh/id_ed25519.pub 
+   64  bind
+   65  sudo dnf install gnome-screenshot
+   66  python3 dz.py
+   67  python3 dz.py dz2.py
+   68  top
+   69  clear
+   70  top
+   71  clear
+   72  top
+   73  clear
+   74  top
+   75  clear
+   76  top
+   77  kill 49068
+   78  top
+   79  tar
+   80  git
+   81  git clone git@github.com:Shevchenko00/homework.git
+   82  ls -al
+   83  git rm git@github.com:Shevchenko00/homework.git
+   84  git clone /home/akula/Desktop-20240716T170437Z-001/Desktop/gitlerning/ git@github.com:Shevchenko00/homework.git
+   85  cd /home/akula/Desktop-20240716T170437Z-001/Desktop/gitlerning/ 
+   86  git clone /home/akula/Desktop-20240716T170437Z-001/Desktop/gitlerning/ git@github.com:Shevchenko00/homework.git
+   87  git rm git@github.com:Shevchenko00/homework.git
+   88  git clone git@github.com:Shevchenko00/homework.git
+   89  git checkout -b feature
+   90  cd homework/
+   91  git checkout -b feature
+   92  ls -al
+   93  git commit README.md "This is readme.md"
+   94  git commit 
+   95  git config --global shevchenko.sasha2005@gmail.com
+   96  git commit 
+   97  git config --global user.email "shevchenko.sasha2005@gmail.com"
+   98  git commit 
+   99  nano README.md 
+  100  git commit README.md "This is readme.md"
+  101  git status
+  102  git commit -a
+  103  git checkout feature
+  104  git branch 
+  105  git push 
+  106  git push --set-upstream origin feature
+  107  git commit --amend 
+  108  git checkout main
+  109  git merge feature 
+  110  touch history.txt
+  111  history > history.txt 
